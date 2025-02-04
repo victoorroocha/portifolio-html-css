@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Bem vindo ao meu portfólio.
 
 ## Ferramentas utilizadas:
 
