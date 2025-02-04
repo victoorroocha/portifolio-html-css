@@ -1,6 +1,6 @@
 # Bem vindo ao meu portfólio.
 
-[![Imagem do Portfólio](https://raw.githubusercontent.com/victoorroocha/portifolio-html-css/refs/heads/master/assets/img-portifolio.jpg)
+![Imagem do Portfólio](https://raw.githubusercontent.com/victoorroocha/portifolio-html-css/refs/heads/master/assets/img-portifolio.jpg)
 
 ## Ferramentas utilizadas:
 
