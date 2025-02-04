@@ -12,4 +12,4 @@
 
 ### Victor Rocha
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/victor-rocha-444a79a5/)
+### Linkedin: https://www.linkedin.com/in/victor-rocha-444a79a5/
